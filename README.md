@@ -243,8 +243,8 @@ echo $PATH
 
 **Compilation errors:**
 ```bash
-# Check GCC version
-gcc --version
+# Check G++ version
+g++ --version
 
 # Install development tools
 sudo apt install build-essential  # Ubuntu/Debian
